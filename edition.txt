@@ -1,61 +1,77 @@
-OPEN INTEREST - TEST EDITION, FORMAT v2 - 2 November 2026
+OPEN INTEREST | TEST EDITION | 2 November 2026 | v2
 
-LEAD
+LEAD:
+Binance schedules withdrawals before completing asset replacement. [https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda]
 
-The FBI says North Korea took $6.3 billion from Binance, and about half of it can no longer be frozen.
+Binance's 1 November 2026 notice sets a phased withdrawal restart after the exchange's $6.3 billion theft. [https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda] [https://www.binance.com/en/square/post/383048947006139] The company says it has replaced 95% of affected assets, with less liquid tokens still outstanding. [https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda]
 
-Binance lost roughly $6.3 billion from its hot wallets on 29 October 2026, the largest crypto theft on record. The FBI named North Korea's TraderTraitor group on 31 October, and Binance reopened withdrawals in phases on 1 November.
+Binance scheduled the first withdrawal phase for 1 November 2026, between 06:00 and 09:00 UTC. Its notice lists fifteen networks, including Bitcoin, Ethereum and Solana, with specified assets on each. Other network-and-asset combinations would follow when ready; the notice gives no dates for those additions. [https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda]
 
-The theft took about 20 minutes. TRM Labs counts roughly $6.36 billion leaving Binance wallets across 10 blockchains and attributes the operation to TraderTraitor with high confidence [https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history]. CoinDesk, citing TRM, lists 18,270 BTC (about $1.47 billion) and 1.875 billion USDT among the assets [https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack].
+The distinction is between money earmarked and tokens replaced. On 30 October 2026, Binance said it had reserved more than $6.34 billion, including $5 billion in affected tokens. It promised to absorb the financial loss rather than pass it to customers. [https://www.binance.com/en/square/post/383048947006139]
 
-The FBI, with the Secret Service and IRS Criminal Investigation, said the thieves were converting assets mainly into Ethereum. It listed 608 Ethereum addresses, 19 Bitcoin addresses and one Solana address for operators to block [https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack]. The Block reports that the alert did not disclose its evidence.
+Its 31 October 2026 notice names three funding sources: its emergency user-protection reserve, part of its futures insurance fund and corporate treasury. Binance says futures insurance money belongs to the company, rather than customers. It also says those insurance balances do not appear in customer proof-of-reserves checks. [https://www.binance.com/en/support/announcement/detail/1fdf1f61559c401da0435895ffcccb62]
 
-Recovery is limited by asset type. Elliptic counts $6.43 billion stolen and $2.85 billion, about 44%, frozen or seized, 94% of it stablecoins. About $3.25 billion, including 18,327 BTC, sits in assets no issuer can freeze [https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257].
+The company dates its new reserve snapshot to 31 October 2026 at 00:00 UTC. It estimates publication of the full cryptographic proof by 3 November 2026. That remains a company timetable, rather than a completed verification reported here. [https://www.binance.com/en/support/announcement/detail/1fdf1f61559c401da0435895ffcccb62]
 
-Binance says it has replaced about 95% of affected assets, up from 90% a day earlier, using $6.34 billion of company funds [https://crypto.news/binance-restores-usdt-usdc-eth-bnb-withdrawals/]. Co-CEO Richard Teng cites a compromised laptop [http://www.jpost.com/business-and-innovation/article-913440]. How one machine reached systems holding billions is unexplained. A spokesperson told CoinDesk: "Binance will bear the financial impact of the stolen funds." Bitcoin withdrawals reopened first on 1 November, with other networks gated on security checks. A full zero-knowledge proof of reserves is expected by 3 November. Tether froze 378.7 million USDT on Tron, but the unfreezable Bitcoin is the open question.
+TRM Labs attributes the theft to North Korea's TraderTraitor group and assesses Binance's signing infrastructure as the likely point of compromise. Those are the investigator's conclusions. Binance's reopening notice promises a post-incident report when its investigation concludes, leaving the final explanation outstanding. [https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history] [https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda]
 
-NEWS
+NEWS:
 
-[NEWS] Bridges and swap services processed $194 million of Binance loot, and THORChain halted trading.
+[NEWS] BTCPay Server calls for shutdowns after reports of wallet drains. [https://thedefiant.io/news/hacks/btcpay-server-urges-shutdown-after-reports-of-hot-wallet-sweeps]
 
-SomaXBT counts $242 million laundered on Tron in two days, of which about $194 million left Tron through bridges and swaps. Relay handled $48 million, THORChain $44 million, Chainflip $32.1 million and Symbiosis $16 million [https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257]. Symbiosis said its screening "has gaps." THORChain paused after an Ethereum reorg caused a double refund of a 10 ETH deposit, and as of 1:20 p.m. ET on 1 November trading was halted on 10 of 13 connected chains. Co-founder Chad Barraford said node operators have "zero information" beyond what is public and did not say whether they will block the FBI's addresses.
+The Defiant reported the BTCPay Server warning on 1 November 2026. [https://thedefiant.io/] Its account says the project asked operators to stop their servers while it investigates reports of unauthorized hot-wallet sweeps. [https://thedefiant.io/news/hacks/btcpay-server-urges-shutdown-after-reports-of-hot-wallet-sweeps]
 
-[NEWS] Polymarket paused trading on 29 October after a compromised vendor script drained about $2.5 million.
+The initial alert identified neither affected software versions nor a patch, according to The Defiant; it does not establish the final scope. [https://thedefiant.io/news/hacks/btcpay-server-urges-shutdown-after-reports-of-hot-wallet-sweeps]
 
-Polymarket moved to cancel-only mode at 2:05 p.m. ET and resumed trading at 3:05 p.m. It said "One of our third party providers was compromised, and we have referred this to relevant law enforcement" [https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/]. The script was served from DebugBear's monitoring service and hijacked logged-in sessions. BleepingComputer traced about 28.6 million POL, roughly $2.57 million, to three wallets, while Hudson Rock reported the wallet held about $2.19 million. Polymarket has not said how many users were affected, and it said affected users would be made whole.
+[NEWS] Withdrawal requests for zero empty b14g staking orders. [https://www.bitquery.io/investigations/b14g-hack]
 
-[NEWS] A domain hijack redirected 15 DeFi front ends to a wallet drainer on 31 October.
+Bitquery's Gaurav Agarwal reports that an attacker emptied 91 b14g staking orders on Core on 31 October 2026. [https://www.bitquery.io/investigations/b14g-hack] His investigation values the 97.05 million CORE taken at $1.47 million at the pre-theft price, rather than $97 million. [https://www.bitquery.io/investigations/b14g-hack]
 
-Blockaid first found malicious pages on 12 sites, all registered with Name.com, serving the Step Drainer kit. Name.com later said 15 client domains were redirected without authorization [https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251]. Reported losses are about $138,000, a floor that excludes Solana and Aptos, and Bitquery estimated $202,386 across 32 wallets [https://www.kucoin.com/news/insight/SOL/6ae6be2cbbcb5200074562b4]. The smart contracts were not breached. Neither Name.com nor Vercel, which hosted 10 of the sites, has said how the attackers gained control of domain settings.
+The traced transaction requested zero CORE; Core's staking code interpreted zero as the entire stake, according to Agarwal. [https://www.bitquery.io/investigations/b14g-hack] [https://scan.coredao.org/tx/0xe1947f325e1f0bc22290ea97dc5b2ce44827fbb56e1cc40abaeda1d2ed04f62c]
 
-TECH
+[NEWS] An extradited Nomad defendant appears in a California court. [https://www.justice.gov/opa/pr/israeli-national-extradited-face-charges-stealing-nearly-3m-virtual-currency-heist]
 
-[TECH] A new scheme would identify encrypted-mempool committee members who sell decryption shares early.
+Alexander Gurevich appeared in federal court on 30 October 2026 after extradition from Israel, the Justice Department announced. [https://www.justice.gov/opa/pr/israeli-national-extradited-face-charges-stealing-nearly-3m-virtual-currency-heist] Prosecutors allege four unauthorized Nomad Bridge transactions on 1 August 2022 took assets then worth $2.89 million. [https://www.justice.gov/opa/pr/israeli-national-extradited-face-charges-stealing-nearly-3m-virtual-currency-heist]
 
-Aditi Partap and Arantxa Zapico posted on Ethereum Research on 5 October 2026 a traceable threshold encryption design for committee-based encrypted mempools [https://ethresear.ch/t/accountability-for-encrypted-mempools/26123]. A tracer queries a leaking coalition's decoder box with perturbed shares and interpolates a polynomial whose roots name the corrupt parties. The authors call it "a first step" and not deployment-ready. It needs a trusted setup authority that could itself forge shares, and it relies on factoring assumptions that are not post-quantum secure.
+The charges include computer damage and money laundering; the indictment contains allegations, and Gurevich remains presumed innocent. [https://www.justice.gov/opa/pr/israeli-national-extradited-face-charges-stealing-nearly-3m-virtual-currency-heist]
 
-[TECH] Ethereum researcher prices the sender's "free option" in encrypted mempools at about 1 basis point.
+TECH:
 
-The Ethereum Research post by arianaraghi, dated 22 October 2026 and revised 28 October, defines the free option as the value a sender gains by controlling when a transaction is revealed [https://ethresear.ch/t/reveal-optionality-in-encrypted-mempools-how-big-is-the-sender-s-free-option-and-a-post-quantum-way-to-remove-it/26169]. With ETH implied volatility near 51% and an 8-second window, the exogenous option is about 1 basis point, and a fee of about 6 basis points would cap exercise at 1%. The proposed Blind Simultaneous Release scheme uses hash-based commitments, and the paper reports 116 Lean 4 theorems. The hardware speedup figures are an explicit assumption, and the author asks for real data on sequential-hash ASICs.
+[TECH] An OP Stack prototype aggregates post-quantum authentication proofs. [https://ethresear.ch/t/26208]
 
-CULTURE
+Researcher sm-stack published an experimental EIP-8288 adaptation for OP Stack on 2 November 2026. [https://ethresear.ch/t/26208] The design separates signatures from transaction data and posts an aggregate proof covering multiple blocks to Ethereum. [https://ethresear.ch/t/26208]
 
-[CULTURE] Compound's multisig cancelled a pending proposal, and tokenholders moved to strip its veto.
+The author reports up to 170 leanSPHINCS signatures proved per second on a 32-core machine using two-second blocks. [https://ethresear.ch/t/26208] The prototype excludes prover operating costs from its fee mechanism, leaving a deployment cost unresolved. [https://ethresear.ch/t/26208]
 
-On 22 October 2026 the five-of-nine Community Multisig cancelled Proposal 618, which would have moved stewardship of a $5 million emergency fund to the multisig, before tokenholders could vote [https://btcwires.com/crypto-regulations-law/compound-governance-proposal-guardian-multisig-cancellation-power/]. Delegates then filed "End Community Multisig Cancellation Power," which would end the guardian role at 00:00 UTC on 1 November. Critics say two cancelling signers received advisory compensation from the Compound Foundation. This rests on one secondary outlet dated 26 October, and the vote outcome is unverified.
+[TECH] Dan Guo separates same-block quotes from evidence of speed. [https://ethresear.ch/t/26201]
 
-[CULTURE] The White House response to the Binance theft is a shrug, and security writers are not buying Binance's account.
+Dan Guo's 31 October 2026 study examines 92,627 trade executions across nine Ethereum venues with prices controlled by individual market makers. [https://ethresear.ch/t/26201] The sample covers 10 September 2026 through 9 October 2026. [https://ethresear.ch/t/26201]
 
-Speaking at Mar-a-Lago on 31 October, President Trump said "We're looking into it. I'm not worried," and that he would discuss the matter with North Korea if its role is established, as reported by crypto.news citing SBS News [https://crypto.news/binance-restores-usdt-usdc-eth-bnb-withdrawals/]. The FBI had attributed the theft to North Korea the same day. The newsletter This Week in Security questions how a single compromised engineer laptop could reach systems controlling billions [https://this.weekinsecurity.com/this-week-in-security-november-1-2026-edition/]. The two positions leave open who will press Binance for a full incident report.
+Guo reports that three venues require quote updates stamped with the executing block's timestamp, making same-block pairing a contract rule. [https://ethresear.ch/t/26201] Maker signing times remain unobservable, and some venue implementations remain unverified, limiting what the findings establish about speed. [https://ethresear.ch/t/26201]
 
-READING LIST
+CULTURE:
 
-1. FBI alert on the Binance attack, for the address lists operators are asked to block. [https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack]
-2. TRM Labs attribution, for the per-asset theft breakdown. [https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history]
-3. Elliptic on automated laundering, for how scripts re-send rejected bridge deposits. [https://www.elliptic.co/insights/the-binance-hack-is-laundering-on-autopilot/]
-4. Ethereum Research on reveal optionality, for a priced answer to a design question. [https://ethresear.ch/t/reveal-optionality-in-encrypted-mempools-how-big-is-the-sender-s-free-option-and-a-post-quantum-way-to-remove-it/26169]
-5. Ethereum Research on accountability for encrypted mempools, for a tracing construction with stated limits. [https://ethresear.ch/t/accountability-for-encrypted-mempools/26123]
+[CULTURE] Vitalik Buterin rejects crypto's gambling fatalism. [https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html]
 
-METHOD
+In his 31 October 2026 essay, Buterin disputes the view that gambling is blockchains' natural destination. [https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html] He describes moving most of his posting to Firefly, which combines centralized and decentralized social networks. [https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html]
 
-Swept: FBI, TRM Labs, Elliptic, CoinDesk, The Block, BleepingComputer, crypto.news, Ethereum Research and one governance explainer, covering about 29 October to 2 November 2026. TECH items come from masthead voices. No X posts were read directly; SomaXBT, Barraford and Chainalysis claims are relayed by The Block. Secondary sources carry these claims: laundering volumes and THORChain statements (The Block), Teng's laptop account (JPost), Trump's remarks (crypto.news citing SBS News), and the Compound dispute (BTC Wires, outcome unverified). The AP report on the hack could not be fetched and was not used. The Block dates the FBI alert 1 November; crypto.news and the alert URL context give 31 October, which this edition uses. Theft totals differ by source ($6.3 billion Binance, $6.36 billion TRM, $6.43 billion Elliptic). The FBI alert was cited by URL as relayed by The Block and was not read directly. Cut for failed verification: claims of an Electrum exploit, a Chainalysis data breach, hardware wallet breaches and a South Korean exchange hack, which no fetched page confirmed.
+He says distributing the network effect was his goal, and that avoiding X's recommendation feed also improved his experience. [https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html]
+
+[CULTURE] Molly White puts token recovery against immutability. [https://www.citationneeded.news/its-always-north-korea/]
+
+White's 30 October 2026 essay argues that centralized stablecoin issuers abandoned early crypto ideals of decentralization and immutability. [https://www.citationneeded.news/its-always-north-korea/] She identifies their ability to stop stolen tokens and issue replacements as the practical consequence. [https://www.citationneeded.news/its-always-north-korea/]
+
+She distinguishes those powers from protocol freezes that may immobilize funds without returning them to victims. [https://www.citationneeded.news/its-always-north-korea/]
+
+READING LIST:
+
+[https://www.binance.com/en/support/announcement/detail/1fdf1f61559c401da0435895ffcccb62] Binance distinguishes customer reserve proofs from the futures insurance fund used in replenishment.
+
+[https://www.bitquery.io/investigations/b14g-hack] The investigation supplies transaction evidence and separates token quantity from dollar loss.
+
+[https://ethresear.ch/t/26201] Guo states the limitations of using block timestamps to assess market-maker speed.
+
+[https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html] Buterin records his own experiment in changing how he participates in online discourse.
+
+METHOD:
+Swept Binance, TRM, Bitquery, Justice, Ethereum Research, Flashbots, masthead writers and prior editions; the 48-hour target ends 2 November 2026 at 03:00 UTC, with background from 29 October 2026. [https://raw.githubusercontent.com/openinterest-ai/paper/main/masthead/voices.csv] [https://openinterest-ai.github.io/paper/rehearsal.html] Cut claims of universal Binance withdrawal access, a definitive attack entry point and a BTCPay loss total for failed verification; The Defiant supplies BTCPay reporting because open social mirrors failed. Binance coverage remains self-reported; TRM and Bitquery supply attributed investigations, White supplies interpretation, and neither transactions nor research benchmarks were independently replayed.
